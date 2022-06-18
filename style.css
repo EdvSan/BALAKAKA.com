@@ -1,0 +1,78 @@
+body {
+	
+}
+
+#banner {
+	width: 34%;
+	padding-left: 33%;
+}
+#banner:hover{
+	opacity: 0.7;
+	transition: 400ms;
+}
+
+.principal{
+
+	background: #ff000000;
+	padding: 30px;
+}
+
+.titulo-principal {
+
+	background: #ff000000;
+	text-align: center;
+}
+
+.titulo-centralizado {
+
+	background: #ff000000;
+	text-align: center;
+	border-radius: 10px;
+}
+
+p {
+	text-align: center;
+}
+
+#missao {
+	font-size: 20px
+}
+
+.itens {
+
+	background: #ff000000;
+	font-size: large;;
+
+}
+
+.Capa {
+
+	background: #bb1a1a;
+	padding: 20px;
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
+
+.Sinopse {
+	width: 30%;
+}
+
+.baixo{
+	padding-left: 37%;
+}
+.video {
+	width: 560px;
+	margin: 2em auto ;
+}
+
+.fundo{
+	background: linear-gradient(#020100,#a10000);
+}
+.texto{
+	color: white;
+}
